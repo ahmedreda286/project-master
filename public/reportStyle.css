@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    background-image: radial-gradient(circle, #ffffff, #bfbec8, #808195, #444964, #051937);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .container {
+        border-radius: 10px;
+        margin-top: 50px;
+        width: 1000px;
+        background-color: #ffff;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 650px;
+      }
+      .header {
+        background-color: #00456A;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50px;
+      }    
